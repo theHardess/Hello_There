@@ -1,2 +1,3 @@
-# Hello There, I am Francis, a TECH. Adept
-## Below is my skills in tech
+# Hello There, I am Francis, a skilled developer and tech adept...
+
+### Below is my skills in tech

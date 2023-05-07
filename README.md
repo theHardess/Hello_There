@@ -1,5 +1,9 @@
 # Hello There, I am Francis, a skilled developer and tech adept...
 
-### Below is my skills in tech
+## Below Are My Skills:
 
--programming_langs = {'PYTHON', 'JAVA', 'C++', 'SWIFT'}
+### Programming Languages: PYTHON, JAVA, C++ & SWIFT
+### Web Development: HTML, CSS, Javascript & Nodejs
+### Mobile Dev: Python-kivy framework & Flutter
+
+## Other Skills
